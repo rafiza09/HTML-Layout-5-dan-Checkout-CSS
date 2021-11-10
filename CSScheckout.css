@@ -1,0 +1,109 @@
+body{
+    width: 1250px;
+    height: 740px;
+    margin: auto;
+    border: 2px solid rgb(27, 27, 27);
+}
+
+.atas{
+    background-color: rgb(212, 211, 211);
+}
+
+.header li{
+    float: left;
+    padding: 20px;
+    list-style: none;
+}
+
+.header2 li{
+    text-align: right;
+    padding: 20px;
+    list-style: none;
+}
+
+hr{
+    color: black;
+}
+
+.tabel table{
+    float: right;
+    background-color: lightgray;
+    padding: 15px 60px;
+}
+
+.tabel th{
+    height: 30px;
+}
+
+.tabel hr{
+    color: white;
+}
+
+.tabel button{
+    border-color: lightgray;
+    color: lightgrey;
+
+}
+
+.order{
+    margin-left: 50px;
+}
+
+.order i{
+    font-size: 70px;
+    color: black;
+}
+
+.confirmed{
+    margin-left: 50px;
+}
+
+.info{
+    margin-left: 15px;
+}
+
+.info li{
+    list-style: none;
+}
+
+.info1 table{
+    margin-left: 4%;
+}
+
+.info1 td{
+    width: 65%;
+}
+
+.bawah li{
+    float: left;
+    padding: 5px 20px;
+    list-style: none;
+}
+
+.samping li{
+    text-align: right;
+    list-style: none;
+}
+
+.bawah1 li{
+    float: left;
+    margin-left: 15px;
+    padding: 5px;
+    list-style: none;
+}
+
+.samping1 li{
+    float: right;
+    padding: 5px;
+    list-style: none;
+}
+
+.samping1 input{
+    border-color: black;
+    border-block-color: black;
+}
+
+.samping1 button{
+    background-color: black;
+    color: white;
+}
